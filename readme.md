@@ -2,7 +2,8 @@
 （WIP）
 2022年度に筑波大学 人と音の情報学研究室によって行われた深層学習による音楽情報処理の勉強会のスライドとjupyter notebookによる実装をまとめたものです．
 
-2022年6月28日現在準備中です．
+2023年7月4日現在準備中です．一生準備中かもしれません．
+もし間違い等があれば，issueにて報告お願いします．
 
 ## google colab リンク
 - 2. 音楽ファイルについて: https://colab.research.google.com/drive/1bvYDQiJaSPf4HbcCKh2ZZN6CSX0lB8Rw?usp=sharing
@@ -14,5 +15,7 @@
 - 8. audio-to-audio：
 - 9. variational autoencoder:
 - 10. GAN:
-更新履歴：
+
+
+## 更新履歴
 - 2023.07.04 音楽データ処理の基礎と音楽特徴量，CNNについてのpdfをアップしました．
