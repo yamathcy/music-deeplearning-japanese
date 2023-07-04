@@ -19,3 +19,12 @@
 
 ## 更新履歴
 - 2023.07.04 音楽データ処理の基礎と音楽特徴量，CNNについてのpdfをアップしました．
+
+
+## 参考資料
+- https://cs230.stanford.edu/
+- https://www.audiolabs-erlangen.de/fau/professor/mueller/teaching/2022s_apl 
+- https://www.audiolabs-erlangen.de/fau/professor/mueller/bookFMP
+- https://mac.kaist.ac.kr/~juhan/gct634/ ← 特に参考にさせていただきました．
+
+
