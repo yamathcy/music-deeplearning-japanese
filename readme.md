@@ -6,13 +6,13 @@
 もし間違い等があれば，issueにて報告お願いします．
 
 ## 本勉強会の立ち位置
-本研究は，音楽・楽譜の情報処理において，Deep-learningを適用する方法についてを主に解説したものです．
+本研究は，音楽・楽譜の情報処理において，Deep learningを適用する方法についてを主に解説したものです．
 
 音楽情報処理にもDeep learningの波が来た．だから，
 - 音楽情報処理特有の問題もあって，それに対応できるような知識を解説したい．
 - 音処理・機械学習触ったことありますのレベルから効率的に最新知識を繋ぐためのものが欲しい．
-という山本個人の思いと，
-- これによってできることが増えた．Deep Learningを使えば自分の叶えたいことが研究できるかもしれないから知見を持ちたい．
+という山本個人の想いと，
+- これによってできることが増えた．Deep learningを使えば自分の叶えたいことが研究できるかもしれないから知見を持ちたい．
 - ソロプレイが主の弊研究室では，これを一人で勉強しなければならないが，さすがにきつい．
 というビギナーのメンバーたちのニーズにこたえてはじめました．
 
@@ -28,16 +28,40 @@ https://github.com/yamathcy/awesome-music-informatics
 https://www.coronasha.co.jp/np/isbn/9784339013726/
 
 
-## google colab リンク
-- 2. 音楽ファイルについて: https://colab.research.google.com/drive/1bvYDQiJaSPf4HbcCKh2ZZN6CSX0lB8Rw?usp=sharing
-- 3. 音響特徴量について： （注：GTZANデータセットが利用不可になっている可能性あり）https://colab.research.google.com/drive/1Y0rcJZu-xFhH5eu1cmOweAg57MK0yP0V?usp=sharing
+## pdfおよびgoogle colab リンク
+- 1. イントロダクション
+  - pdf /pdf/deep-people_01.pdf
+  - colab なし
+- 2. 音楽ファイルについて: 
+  - pdf /pdf/deep-people_02.pdf
+  - colab https://colab.research.google.com/drive/1bvYDQiJaSPf4HbcCKh2ZZN6CSX0lB8Rw?usp=sharing
+- 3. 音響特徴量について： （注：GTZANデータセットが利用不可になっている可能性あり）
+  - pdf /pdf/deep-people_03.pdf
+  - colab https://colab.research.google.com/drive/1Y0rcJZu-xFhH5eu1cmOweAg57MK0yP0V?usp=sharing
 - 4. ニューラルネットワーク基礎：
-- 5. 畳込みニューラルネットワークによる音分類：https://colab.research.google.com/drive/1Fl7bLZ3d0YgtbqRFkiYk3dH28y9E0SNs?usp=sharing
+  - pdf /pdf/deep-people_04.pdf
+  - colab
+- 5. 畳込みニューラルネットワークによる音分類：
+  - pdf /pdf/deep-people_05.pdf
+  - colab https://colab.research.google.com/drive/1Fl7bLZ3d0YgtbqRFkiYk3dH28y9E0SNs?usp=sharing
 - 6. （畳込み）再帰型ニューラルネットワークによる系列分類：
+  - pdf /pdf/deep-people_06.pdf
+  - colab 
 - 7. フレームレベルの分類問題 - 自動採譜を対象に：
+  - pdf /pdf/deep-people_07.pdf
+  - colab 
 - 8. audio-to-audio：
-- 9. variational autoencoder:
-- 10. GAN:
+  - pdf /pdf/deep-people_08.pdf
+  - colab 
+- 9. 音楽生成基礎: 
+  - pdf /pdf/deep-people_09.pdf
+  - colab 
+- 10. variational autoencoder:
+  - pdf /pdf/deep-people_10.pdf
+  - colab 
+- 11. GAN:
+  - pdf 
+  - colab 
 
 
 ## 更新履歴
