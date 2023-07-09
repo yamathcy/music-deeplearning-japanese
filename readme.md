@@ -20,8 +20,9 @@
 というビギナーのメンバーたちのニーズにこたえてはじめました．
 
 なお，Deep以前の音楽情報処理に関しては，
-FMP Notebooks https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html
-Pythonで学ぶ音楽信号処理と音楽アプリ開発 https://www.wizard-notes.com/music-analysis
+- FMP Notebooks https://www.audiolabs-erlangen.de/resources/MIR/FMP/C0/C0.html
+- Pythonで学ぶ音楽信号処理と音楽アプリ開発 https://www.wizard-notes.com/music-analysis
+
 などが非常に詳しいです．
 
 また，最新のツール等に関してはこちらにまとめています．
