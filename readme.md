@@ -30,34 +30,34 @@ https://www.coronasha.co.jp/np/isbn/9784339013726/
 
 ## pdfおよびgoogle colab リンク
 - 1. イントロダクション
-  - [pdf] (/pdf/deep-people_01.pdf)
+  - [pdf](/pdf/deep-people_01.pdf)
   - colab なし
 - 2. 音楽ファイルについて: 
-  - [pdf] (/pdf/deep-people_02.pdf)
+  - [pdf](/pdf/deep-people_02.pdf)
   - colab https://colab.research.google.com/drive/1bvYDQiJaSPf4HbcCKh2ZZN6CSX0lB8Rw?usp=sharing
 - 3. 音響特徴量について： （注：GTZANデータセットが利用不可になっている可能性あり）
-  - [pdf] (/pdf/deep-people_03.pdf)
+  - [pdf](/pdf/deep-people_03.pdf)
   - colab https://colab.research.google.com/drive/1Y0rcJZu-xFhH5eu1cmOweAg57MK0yP0V?usp=sharing
 - 4. ニューラルネットワーク基礎：
-  - [pdf] (/pdf/deep-people_04.pdf)
+  - [pdf](/pdf/deep-people_04.pdf)
   - colab
 - 5. 畳込みニューラルネットワークによる音分類：
-  - [pdf] (/pdf/deep-people_05.pdf)
+  - [pdf](/pdf/deep-people_05.pdf)
   - colab https://colab.research.google.com/drive/1Fl7bLZ3d0YgtbqRFkiYk3dH28y9E0SNs?usp=sharing
 - 6. （畳込み）再帰型ニューラルネットワークによる系列分類：
-  - [pdf] (/pdf/deep-people_06.pdf)
+  - [pdf](/pdf/deep-people_06.pdf)
   - colab 
 - 7. フレームレベルの分類問題 - 自動採譜を対象に：
-  - [pdf] (/pdf/deep-people_07.pdf)
+  - [pdf](/pdf/deep-people_07.pdf)
   - colab 
 - 8. audio-to-audio：
-  - [pdf] (/pdf/deep-people_08.pdf)
+  - [pdf](/pdf/deep-people_08.pdf)
   - colab 
 - 9. 音楽生成基礎: 
-  - [pdf] (/pdf/deep-people_09.pdf)
+  - [pdf](/pdf/deep-people_09.pdf)
   - colab 
 - 10. variational autoencoder:
-  - [pdf] (/pdf/deep-people_10.pdf)
+  - [pdf](/pdf/deep-people_10.pdf)
   - colab 
 - 11. GAN:
   - pdf 
